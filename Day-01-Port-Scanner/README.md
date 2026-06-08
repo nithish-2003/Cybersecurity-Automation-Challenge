@@ -34,7 +34,7 @@ The original scanner checks a target host for open TCP ports within a specified 
 
 ### Original Scanner Execution
 
-![Original Scanner](screenshots/original_scanner.png)
+![Original Scanner](screenshots/scanner.py%20output.png)
 
 The original scanner successfully detected open ports on the target system.
 
@@ -63,7 +63,7 @@ Automatically saves discovered open ports and services to a text file.
 
 ### Enhanced Scanner Execution
 
-![Enhanced Scanner](screenshots/enhanced_scanner.png)
+![Enhanced Scanner](screenshots/scannerversion2.py%20output.png)
 
 The enhanced scanner displays detected services and exports scan results to a file.
 
